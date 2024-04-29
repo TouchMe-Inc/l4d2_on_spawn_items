@@ -61,7 +61,7 @@ public void OnPluginStart()
 	// Cvars.
 	g_cvItems = CreateConVar("sm_osi_items", \
 		"0", \
-		"Item flags to give on leaving the saferoom (0: Disable, 1: Kit, 2: Defib, 4: Pills, 8: Adren, 16: Pipebomb, 32: Molotov, 64: Bile)", \
+		"Item flags to give on spawn (0: Disable, 1: Kit, 2: Defib, 4: Pills, 8: Adren, 16: Pipebomb, 32: Molotov, 64: Bile)", \
 		_, false, 0.0, true, 127.0 \
 	);
 
