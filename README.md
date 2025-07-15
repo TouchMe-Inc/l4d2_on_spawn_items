@@ -1,6 +1,9 @@
 # About on_spawn_items
 Give out items when spawned.
 
+> [!IMPORTANT]
+> The plugin is outdated. Use [l4d2_on_spawn_weapon](https://github.com/TouchMe-Inc/l4d2_on_spawn_weapon).
+
 ## ConVars
 | ConVar                  | Value         | Description                                                                        |
 | ----------------------- | ------------- | ---------------------------------------------------------------------------------- |
